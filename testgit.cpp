@@ -8,3 +8,5 @@
 
 // this is feature one, (everything above was master, with 1 commit and a 2nd one thrown?)
 // blabla more text on feature1 only woot!!
+
+// new commit text here in feature 1
