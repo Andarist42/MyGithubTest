@@ -5,3 +5,5 @@
 
 // this lines are in the new branch feature 1
 // object 2: in branch feature 1 only
+
+// new hotfix branch here
